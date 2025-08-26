@@ -1,0 +1,7 @@
+report_id,user_id,title,description,category,status,assigned_to,stazione,latitude,longitude,photo_path
+1,2,lampione,lampione non funzionante,Illuminazione,presa in carico,operatore pontedera,,,,
+2,2,lampione,lampione non funzionante,Illuminazione,presa in carico,elettricisti,,43.6634536,10.6354851,
+3,2,lampione,lampione non funzionante,Illuminazione,presa in carico,ylenia,,43.7166,10.3965,
+4,2,marciapiede rotto,manca mattonella,marciapiede,inviata,,Lucca Centrale,43.8437,10.5027,
+5,2,lampione,lampione non funzionante,Illuminazione,inviata,,Pisa San Rossore,43.722,10.386,
+6,2,lampione,lampione non funzionante,Illuminazione,presa in carico,gianni,Arezzo Centrale,43.4635,11.8798,
